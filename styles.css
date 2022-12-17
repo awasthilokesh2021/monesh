@@ -1,0 +1,90 @@
+.container{
+           position: sticky;
+           top: 0px;
+           background-color: black;
+           border-left: 30px;
+           color: white;
+           height: 56px;
+}
+.right{
+    position: absolute;
+    left: 15px;
+    top: 0px;
+}
+.nav{
+    position: absolute;
+    right: 3px;
+    top: 3px;
+}
+.navbar{
+    display: flex; 
+}
+.navbar li{
+text-decoration: none;   
+color: black;   
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    margin: 22px;
+}
+.flex{
+    margin-top: 24px;
+    padding: 2px;
+    display: flex;
+}
+.lorem{
+    width: 608px;
+    height: 369px;
+    margin-top: 0px;
+}
+.btn{
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+.image img{
+    display: block;
+    height: 506px;
+    width: 632px;
+}
+.h3{
+    height: 21px;
+    top: 123px;
+    color: black;
+    margin-top: 64px;
+    width: 133px;
+    padding-left: 18px;
+    border-left: 2px;
+}
+ .flex-container{
+    display: flex;
+    height: 42vh;
+    flex-wrap: wrap;
+    
+ }
+ .item{
+    margin: 12px;
+    height: 220px;
+    width: 415px;
+    line-height: 24.5;
+ }
+ .item img{
+    height: 222px;
+    width: 391px;
+ }
+ .flx{
+    display: flex;
+    height: 71vh;
+    flex-wrap: wrap;
+ }
+ .item1{
+    margin: 12px;
+    height: 220px;
+    width: 415px;
+    line-height: 24.5;
+ }
+ .item1 img{
+    height: 222px;
+    width: 391px;
+ }
